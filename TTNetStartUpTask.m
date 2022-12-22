@@ -2,7 +2,6 @@
 //  TTNetStartUpTask.m
 //  App
 //
-//  Created by bytedance on 2021/4/25.
 //
 
 #import "TTNetStartUpTask.h"
